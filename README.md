@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @nrt40
-- 👀 I’m interested in ... Solidity, Smart Contracts, Blockchain
-- 🌱 I’m currently learning ... Blockchain
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi, I’m @nrt40
 
-<!---
-nrt40/nrt40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a developer passionate about building scalable cloud architectures and engineering efficient backend systems.
+
+- 👀 **I’m interested in ...**
+  - **Cloud Native:** Google Cloud Platform (Cloud Run, Pub/Sub), GitOps, Docker
+  - **Backend Engineering:** Python (FastAPI), System Architecture
+  - **AI & Data:** LLM Integration, Video Analysis, Real-time Data Processing
+
+- 🌱 **I’m currently learning & building ...**
+  - Advanced backend systems with **Python** and **TypeScript (React)**
+  - Event-driven architectures for complex workflows
+  - Modernizing legacy systems to cloud-native standards
+
+- 💞️ **I’m looking to collaborate on ...**
+  - Open source projects related to Cloud Infrastructure or Python Tools
+  - Innovative apps that integrate AI agents into business workflows
